@@ -4,6 +4,9 @@ Corrigindo Conflitos
 # Ferramentas de controle de versão:
 
 * Mercurial
-* GitLAB
+
+* GIT
+* GITLAB
 * Subversion
 * CVS
+conflito resolvido 
