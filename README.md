@@ -4,6 +4,6 @@ Corrigindo Conflitos
 # Ferramentas de controle de versão:
 
 * Mercurial
-* GitHub
+* GIT
 * Subversion
 * CVS
